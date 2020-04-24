@@ -1,0 +1,41 @@
+body {
+	margin: 0;
+	color: #333333;
+	background-color: #c8b5ed;
+	font-size: 12pt;
+	font-family: 'Roboto', sans-serif;
+	text-align: center;
+}
+
+h1,h3 {
+	font-family: 'Marck Script', cursive;
+	font-size: 40pt;
+}
+
+.container {
+	padding: 2px;
+	margin: 5px;
+}
+
+
+.myButton {
+	border: 2px solid #333333;
+	background-color: #b5edd3;
+	border-radius: 5em;
+	padding: 5px;
+	margin-top: 5px;
+	margin-bottom: 5px;
+	margin-left: 500px;
+	margin-right: 500px;
+	cursor: pointer;
+	text-align: center;
+	font-size: 24pt;
+}
+
+#outputpaint {
+	font-size: 20pt;
+}
+
+#outputchar {
+	font-size:20pt;
+}
